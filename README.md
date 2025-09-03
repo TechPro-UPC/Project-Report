@@ -69,8 +69,8 @@
    <td>U202319668</td>
    </tr>
    <tr>
-   <td>Nombre integrante 4</td>
-   <td>U</td>
+   <td>Nicolich Alvis, Fabio Maurizio</td>
+   <td>U202218791</td>
    </tr>
    <tr>
    <td>Nombre integrante 5</td>
