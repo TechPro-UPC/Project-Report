@@ -168,3 +168,48 @@ Consolidarnos como la startup tecnológica de referencia en Latinoamérica en el
 | **Marcelo Varela**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 20 años y actualmente me encuentro cursando el quinto ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="img/Foto_Marcelo_Perfil.png" alt="marcelo image" width="200">                                         |
 
 ## 1.2. Solution Profile
+MindBridge es una solución integral orientada a transformar la gestión de citas psicológicas en el sector de la salud mental. A través de una plataforma digital en tiempo real impulsada por inteligencia artificial, conecta de manera eficiente a terapeutas y pacientes, optimizando la disponibilidad y reduciendo los tiempos de espera. Esta innovadora herramienta permite minimizar cancelaciones y olvidos mediante recordatorios automáticos, al mismo tiempo que facilita la captación de nuevos pacientes que requieren atención inmediata, garantizando un acceso más ágil y efectivo a los servicios psicológicos.
+
+### 1.2.1 Antecedentes y problemática
+
+**What (Qué)**
+
+##### ¿Cuál es el problema?
+
+##### ¿Cuál es la relación con la persona en cuestión?
+
+**Who (Quién)**
+
+##### ¿Quiénes están involucrados?
+
+##### ¿A quiénes le sucede el problema?
+
+**Where (Dónde)**
+
+##### ¿En dónde ocurre el problema?
+
+##### ¿En dónde nos enfocaremos?
+
+**When (Cuándo)**
+
+##### ¿Cuándo sucede el problema?
+
+##### ¿Cuándo utiliza el cliente el producto?
+
+**Why (Por qué)**
+
+##### ¿Cuál es la causa del problema?
+
+**How (Cómo)**
+
+##### ¿En qué condiciones los clientes usan nuestro producto?
+
+**How much (Cuánto)**
+
+##### Estadísticas que sustentan la problemática.
+
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+Nuestra aplicación, MindBridge, ....
