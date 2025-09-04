@@ -93,6 +93,7 @@
 
 | Version | Fecha      | Autor                            | Descripción de modificación                                                                            |
 |---------|------------|----------------------------------|--------------------------------------------------------------------------------------------------------|
+
 </div>
 
 # Project Report Collaboration Insights
@@ -137,3 +138,8 @@ URL del repositorio para el proyecto:
    3.4. [Product Backlog](#34-product-backlog)<br>
 
 # Student Outcomes
+**ABET – EAC - Student Outcome 7**
+
+| Criterio Específico | Accciones realizadas | Conclusiones | 
+|---------------------|----------------------|--------------|
+|La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias deaprendizaje apropiadas.|----------------------|--------------|
