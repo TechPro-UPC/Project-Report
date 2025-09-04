@@ -212,4 +212,25 @@ MindBridge es una solución integral orientada a transformar la gestión de cita
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Nuestra aplicación, MindBridge, ....
+Nuestra aplicación, MindBridge, está diseñada para optimizar la gestión de citas en el sector de la salud mental, permitiendo a psicólogos y centros especializados administrar su disponibilidad, conectar de manera eficiente con nuevos pacientes y mejorar la experiencia del usuario a través de inteligencia artificial y digitalización de servicios.
+Hemos detectado que los profesionales de la psicología enfrentan dificultades para organizar sus citas de manera eficiente, ya que dependen de llamadas, mensajes de WhatsApp y agendas manuales, lo que genera desorden, pérdida de tiempo y altas tasas de inasistencia. Además, la falta de una herramienta centralizada limita su capacidad de crecimiento y dificulta el seguimiento de sus pacientes.
+Por otro lado, los pacientes que buscan atención psicológica suelen experimentar frustración al intentar coordinar sus citas manualmente, ya que muchas veces no encuentran disponibilidad inmediata, enfrentan confusión sobre horarios y olvidan sus sesiones, lo que incrementa el abandono de las terapias.
+¿Cómo podemos ofrecer una solución digital integral que permita a los psicólogos gestionar su agenda de forma eficiente, reducir las inasistencias y ofrecer a los pacientes una experiencia más accesible, confiable y personalizada en sus procesos terapéuticos?
+
+# Bibliografía
+
+<div style="text-indent: 30px;">
+
+What is Figma? (2019). Figma Learn - Help Center. https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma
+
+Structurizr. (2025). https://structurizr.com/
+
+Lucidchart | Diagramas creados con inteligencia. (2025). Lucidchart. https://www.lucidchart.com/pages/es/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_es_tier2_mixed_search_brand_phrase_&km_CPC_CampaignId=1501207844&km_CPC_AdGroupID=63362152012&km_CPC_Keyword=%2Blucidchart%20%2Bsoftware&km_CPC_MatchType=b&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=286846989106&km_CPC_TargetID=kwd-375017978385&km_CPC_Country=9186211&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gad_source=1&gbraid=0AAAAADLdSjCGPJBFHw9InHN-Qfss5OfWy&gclid=Cj0KCQjwoNzABhDbARIsALfY8VPCJ6QSDWkzARgPQcf7VUOTXMJ-PZWXoYd1OdiqYtYOFsopUiaeMW8aAifbEALw_wcB
+
+Videoconferencia, reuniones, llamadas | MicrosoftTeams. (2025). https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
+
+Build software better, together. (2025). GitHub. https://github.com/about
+
+Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/abstract/document/10495888
+
+</div>
