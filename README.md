@@ -180,27 +180,41 @@ El problema principal es la ausencia de una herramienta digital efciente para ge
 
 ##### ¿Cuál es la relación con la persona en cuestión?
 
+MindBridge busca resolver esta problemática mediante una plataforma digital que permita a psicólogos y centros médicos gestionar de manera eficiente su disponibilidad, automatizar la organización de citas, recibir pagos en línea y fortalecer la fidelización de los pacientes. Al integrar estas funciones en un solo sistema, se optimiza la eficiencia operativa y se mejora la experiencia de quienes buscan atención psicológica. Diversos estudios, como el de Zambrano Jiménez et al. (2024), señalan que la inasistencia a citas médicas se relaciona principalmente con dificultades de coordinación y aspectos logísticos, lo cual refuerza la importancia de implementar soluciones tecnológicas que minimicen estas limitaciones y aseguren la continuidad del tratamiento.
+
 **Who (Quién)**
 
 ##### ¿Quiénes están involucrados?
 
+Los principales actores involucrados son los pacientes y los profesionales del sector salud, como psicólogos, terapeutas y centros especializados, que requieren una plataforma que facilite la automatización y digitalización en la gestión de citas. Del mismo modo, los pacientes buscan evitar la cancelación de sus sesiones debido a la falta de disponibilidad, garantizando así la continuidad de sus tratamientos psicológicos.
+
 ##### ¿A quiénes le sucede el problema?
 
-**Where (Dónde)**
+El problema impacta tanto a los pacientes como a los profesionales de la salud. Por un lado, los psicólogos, terapeutas y centros especializados enfrentan dificultades para organizar su disponibilidad y reducir la inasistencia a citas; por otro lado, los pacientes ven interrumpida la continuidad de sus tratamientos debido a la falta de coordinación y tiempos de espera prolongados. Investigaciones previas, como la de Odeh, Abdelhadi y Odeh (2019), demuestran que la implementación de sistemas inteligentes y aplicaciones móviles en la gestión de citas médicas facilita significativamente el proceso de agendamiento y acceso a la atención en hospitales y clínicas.
+
+*Where (Dónde)**
 
 ##### ¿En dónde ocurre el problema?
 
+El problema se presenta en áreas urbanas del Perú, donde muchos profesionales del sector de la salud mental aún gestionan sus citas de manera informal, utilizando agendas físicas, mensajes de texto o redes sociales. Este tipo de administración provoca desorganización y aumenta la probabilidad de errores debido al alto número de pacientes que atienden.
+
 ##### ¿En dónde nos enfocaremos?
+
+Nos enfocaremos en las principales áreas urbanas del Perú, donde la demanda de servicios psicológicos es cada vez mayor y los profesionales requieren herramientas digitales que faciliten la gestión de citas. Inicialmente, la plataforma estará dirigida a psicólogos independientes y centros de atención psicológica que buscan optimizar su tiempo, reducir ausencias y ofrecer a los pacientes una experiencia más accesible y organizada.
 
 **When (Cuándo)**
 
 ##### ¿Cuándo sucede el problema?
 
+Actualmente, esto se presenta cada vez que un cliente de nuestro segmento requiere de una cita terapéutica, y la hora y datos de la misma son administrados de forma manual o informal.
+
 ##### ¿Cuándo utiliza el cliente el producto?
+
+Nuestros segmentos utilizarán el producto al momento de solicitar una cita psicológica. En primer lugar, el paciente podrá revisar la disponibilidad de horarios del profesional en tiempo real. Si existe un espacio accesible, la cita será registrada automáticamente en el calendario digital, evitando duplicaciones o errores. Además, el producto empleará inteligencia artificial para recomendar la mejor coincidencia entre paciente y terapeuta, enviar recordatorios automáticos que reduzcan las inasistencias y facilitar procesos complementarios como pagos en línea o reprogramaciones inmediatas en caso de cancelaciones.
 
 **Why (Por qué)**
 
-##### ¿Cuál es la causa del problema?
+Existen diversas causas que originan el problema. En primer lugar, muchos profesionales aún registran sus citas de forma manual e informal, ya sea por desconfianza hacia la confiabilidad de los dispositivos tecnológicos actuales o por la falta de soluciones que realmente se adapten a sus necesidades. Otro factor está relacionado con la ausencia de calendarios digitales especializados en tiempo real para este segmento. Si bien aplicaciones como Google Calendar o Zoho ofrecen servicios similares, su complejidad y el exceso de características resultan poco prácticas para algunos profesionales de la salud mental, quienes terminan optando por anotar sus citas manualmente y registrar únicamente la información básica.
 
 **How (Cómo)**
 
@@ -225,6 +239,8 @@ Por otro lado, los pacientes que buscan atención psicológica suelen experiment
 
 
 Burgos-Medina, F., Tinoco-Condor, K., & Gamboa-Cruzado, J. (2021). Sistema Web para la Gestión de Citas en Centros de Atención Psicológica: Un Caso de Estudio. Revista Ibérica de Sistemas e Tecnologias de Informação, (E45), 458-473. https://www.researchgate.net/publication/391574350_Sistema_Web_para_la_Gestion_de_Citas_en_Centros_de_Atencion_Psicologica_Un_Caso_de_Estudio
+
+Jimenez, W. F. Z., Quiroz, D. M. M., Sanchez, J. A. F., & Cevallos, S. M. Z. (2024). Determinant factors of non-attendance to medical Appointments: a mixed-methods approach. Minerva, 5(14), 52-62. https://doi.org/10.47460/minerva.v5i14.163
 
 What is Figma? (2019). Figma Learn - Help Center. https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma
 
