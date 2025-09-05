@@ -220,9 +220,23 @@ Existen diversas causas que originan el problema. En primer lugar, muchos profes
 
 ##### ¿En qué condiciones los clientes usan nuestro producto?
 
+Los clientes utilizarán nuestro producto cuando necesiten agendar, confirmar o dar seguimiento a sus citas psicológicas de manera eficiente y confiable. Podrán acceder desde cualquier dispositivo con conexión a internet mediante un navegador web, lo que les permitirá consultar en tiempo real la disponibilidad de los profesionales. De esta forma, se evita la pérdida de tiempo al coordinar manualmente por llamadas o mensajes, al mismo tiempo que se reciben recordatorios automáticos que reducen olvidos e inasistencias.
+
 **How much (Cuánto)**
 
 ##### Estadísticas que sustentan la problemática.
+La inasistencia a citas médicas suele estar asociada principalmente a factores de tipo logístico y organizativo. En el estudio de Zambrano Jiménez et al. (2024) se identificó que cerca de un tercio de los pacientes (32 %) no asiste debido a problemas de transporte, mientras que un 29 % lo atribuye a los extensos tiempos de espera. Otros factores relevantes incluyen compromisos laborales (16 %) y el olvido de la cita (11 %). Estos resultados ponen en evidencia la necesidad de contar con soluciones tecnológicas que simplifiquen la gestión de citas y garanticen mayor continuidad en los tratamientos de salud mental.
+<div align="center">
+<img src="img/Tabla_estadistica_1.png" alt="dato_estadistico_1" />
+</div>
+Según Chung et al. (2020), la adopción de sistemas digitales como Fast Pass tiene un efecto positivo en la asistencia a las citas médicas. Los autores evidencian que, cuando los pacientes aceptan esta modalidad, la tasa de cumplimiento se acerca al 80 %, mientras que las cancelaciones y las inasistencias se reducen en comparación con las citas gestionadas de forma tradicional. En cambio, cuando la oferta es vista pero no aceptada, las citas completadas disminuyen y las cancelaciones aumentan, lo que confirma la relevancia de estas herramientas tecnológicas para mejorar la continuidad de la atención.
+<div align="center">
+<img src="img/Tabla_estadistica_2.png" alt="dato_estadistico_1" />
+</div>
+Tal como señalan Valenzuela-Núñez et al. (2023), el análisis de la base de datos evidencia que los grupos etarios con mayor incidencia de inasistencia corresponden a pacientes entre 1 y 15 años, seguido de un repunte significativo entre los 18 y 40 años, acumulando un total de 15.333 registros. Estos patrones permiten comprender la distribución de la problemática y constituyen un insumo clave para el desarrollo de modelos de predicción de ausentismo.
+<div align="center">
+<img src="img/Tabla_estadistica_3.png" alt="dato_estadistico_1" />
+</div>
 
 ### 1.2.2 Lean UX Process
 
@@ -241,6 +255,8 @@ Por otro lado, los pacientes que buscan atención psicológica suelen experiment
 Burgos-Medina, F., Tinoco-Condor, K., & Gamboa-Cruzado, J. (2021). Sistema Web para la Gestión de Citas en Centros de Atención Psicológica: Un Caso de Estudio. Revista Ibérica de Sistemas e Tecnologias de Informação, (E45), 458-473. https://www.researchgate.net/publication/391574350_Sistema_Web_para_la_Gestion_de_Citas_en_Centros_de_Atencion_Psicologica_Un_Caso_de_Estudio
 
 Jimenez, W. F. Z., Quiroz, D. M. M., Sanchez, J. A. F., & Cevallos, S. M. Z. (2024). Determinant factors of non-attendance to medical Appointments: a mixed-methods approach. Minerva, 5(14), 52-62. https://doi.org/10.47460/minerva.v5i14.163
+
+Valenzuela-Nunez, C. I., Espinosa, F. H. T., & Latorre-Nunez, G. O. (2023). Prediction of absenteeism in medical appointments using Machine Learning. Universidad Ciencia y Tecnología, 27(120), 19-30. https://doi.org/10.47460/uct.v27i120.728
 
 What is Figma? (2019). Figma Learn - Help Center. https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma
 
