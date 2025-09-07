@@ -319,7 +319,7 @@ La sección presenta la relación entre los objetivos estratégicos, los impacto
 <img src="img/Impact_Map_1.png" alt="Impact_Map_1" />
 </div>
 
-**Segmento #2: Psicólogos:**
+**Segmento #2: Psicólogos**
 <div align="center">
 <img src="img/Impact_Map_2.png" alt="Impact_Map_2" />
 </div>
