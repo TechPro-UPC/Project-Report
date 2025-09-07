@@ -316,12 +316,12 @@ La sección proyecta cómo los usuarios experimentarán en el futuro la gestión
 
 **Segmento #1: Personas con problemas de salud mental**
 <div align="center">
-<img src="img/To_Be_Scenario_Mapping_1.jpg" alt="To_Be_Scenario_Mapping_1" />
+<img src="img/To_Be_Scenario_Mapping_1.png" alt="To_Be_Scenario_Mapping_1" />
 </div>
 
 **Segmento #2: Psicólogos:**
 <div align="center">
-<img src="img/To_Be_Scenario_Mapping_2.jpg" alt="To_Be_Scenario_Mapping_2" />
+<img src="img/To_Be_Scenario_Mapping_2.png" alt="To_Be_Scenario_Mapping_2" />
 </div>
 
 
