@@ -247,6 +247,20 @@ Hemos detectado que los profesionales de la psicología enfrentan dificultades p
 Por otro lado, los pacientes que buscan atención psicológica suelen experimentar frustración al intentar coordinar sus citas manualmente, ya que muchas veces no encuentran disponibilidad inmediata, enfrentan confusión sobre horarios y olvidan sus sesiones, lo que incrementa el abandono de las terapias.
 ¿Cómo podemos ofrecer una solución digital integral que permita a los psicólogos gestionar su agenda de forma eficiente, reducir las inasistencias y ofrecer a los pacientes una experiencia más accesible, confiable y personalizada en sus procesos terapéuticos?
 
+### 2.3.1 User Personas
+
+A través de un perfil detallado, esta sección explora las características demográficas, necesidades, deseos, comportamientos y problemas específicos de los usuarios de los segmentos objetivos predefinidos, facilitando el diseño de soluciones que se alineen mejor con sus expectativas y desafíos.
+
+**Segmento #1: Personas con problemas de salud mental**
+<div align="center">
+<img src="img/User_Persona_1.png" alt="User_Persona_1" />
+</div>
+
+**Segmento #2: Psicólogos:**
+<div align="center">
+<img src="img/User_Persona_2.png" alt="User_Persona_2" />
+</div>
+
 # Bibliografía
 
 <div style="text-indent: 30px;">
