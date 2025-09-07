@@ -247,6 +247,23 @@ Hemos detectado que los profesionales de la psicología enfrentan dificultades p
 Por otro lado, los pacientes que buscan atención psicológica suelen experimentar frustración al intentar coordinar sus citas manualmente, ya que muchas veces no encuentran disponibilidad inmediata, enfrentan confusión sobre horarios y olvidan sus sesiones, lo que incrementa el abandono de las terapias.
 ¿Cómo podemos ofrecer una solución digital integral que permita a los psicólogos gestionar su agenda de forma eficiente, reducir las inasistencias y ofrecer a los pacientes una experiencia más accesible, confiable y personalizada en sus procesos terapéuticos?
 
+### 2.3.2 User Task Matrix
+
+Esta sección permite identificar las tareas clave que realizan los usuarios de los segmentos para alcanzar sus objetivos, evaluando su frecuencia e importancia. El análisis resalta coincidencias, diferencias y puntos críticos que la solución debe atender.
+
+| Tareas                                | Carlos Méndez <br> Frecuencia | Carlos Méndez <br> Importancia | Mariana Rojas <br> Frecuencia | Mariana Rojas <br> Importancia |
+|---------------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
+| Buscar disponibilidad de psicólogo    | Alta                           | Alta                           | Media                          | Alta                           |
+| Agendar una cita                      | Alta                           | Alta                           | Alta                           | Alta                           |
+| Recordar y asistir a la cita          | Media                          | Alta                           | Alta (confirmar asistencia)    | Alta                           |
+| Reprogramar o cancelar citas          | Media                          | Media                          | Alta                           | Alta                           |
+| Hacer seguimiento del proceso         | Media                          | Alta                           | Media                          | Alta                           |
+| Coordinar horarios por WhatsApp/llam. | Media                          | Media                          | Alta                           | Media                          |
+| Captar nuevos pacientes               | –                              | –                              | Media                          | Alta                           |
+| Organizar agenda semanal              | –                              | –                              | Alta                           | Alta                           |
+| Confirmar asistencia de pacientes     | –                              | –                              | Alta                           | Alta                           |
+| Reducir inasistencias                 | –                              | –                              | Alta                           | Alta                           |
+
 # Bibliografía
 
 <div style="text-indent: 30px;">
