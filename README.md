@@ -310,6 +310,20 @@ La sección muestra cómo los usuarios experimentan actualmente la gestión de c
 <img src="img/As_Is_Scenario_Mapping_2.jpg" alt="As_Is_Scenario_Mapping_2" />
 </div>
 
+### 3.3 Impact Map
+
+La sección presenta la relación entre los objetivos estratégicos, los impactos que se busca generar en cada uno de ellos y los entregables que permiten alcanzarlos. Su construcción incluyó la identificación de necesidades clave, la priorización de resultados deseados y la definición de funcionalidades concretas que responden a dichas necesidades. Este análisis facilita una visión clara y estructurada del alcance de la solución, asegurando que cada entrega esté alineada con los objetivos y aporte valor tanto a los usuarios como a la organización.
+
+**Segmento #1: Personas con problemas de salud mental**
+<div align="center">
+<img src="img/Impact_Map_1.png" alt="Impact_Map_1" />
+</div>
+
+**Segmento #2: Psicólogos:**
+<div align="center">
+<img src="img/Impact_Map_2.png" alt="Impact_Map_2" />
+</div>
+
 # Bibliografía
 
 <div style="text-indent: 30px;">
