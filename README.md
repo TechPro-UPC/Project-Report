@@ -264,6 +264,20 @@ Esta sección permite identificar las tareas clave que realizan los usuarios de 
 | Confirmar asistencia de pacientes     | –                              | –                              | Alta                           | Alta                           |
 | Reducir inasistencias                 | –                              | –                              | Alta                           | Alta                           |
 
+### 2.3.3 Empathy Maps
+
+El Empathy Map ayuda a comprender en profundidad qué ven, piensan, sienten, dicen y hacen los usuarios, además de sus frustraciones (pains) y aspiraciones (gains) de los segmentos objetivo.
+
+**Segmento #1: Personas con problemas de salud mental**
+<div align="center">
+<img src="img/Empathy_Map_1.png" alt="Empathy_Map_1" />
+</div>
+
+**Segmento #2: Psicólogos:**
+<div align="center">
+<img src="img/User_Persona_2.png" alt="Empathy_Map_2" />
+</div>
+
 # Bibliografía
 
 <div style="text-indent: 30px;">
