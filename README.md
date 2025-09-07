@@ -57,8 +57,8 @@
    <th>Código</th>
    </tr>
    <tr>
-   <td>Nombre integrante 1</td>
-   <td>U</td>
+   <td>Bravo Gavilano, Jorge Rafael</td>
+   <td>U202212535</td>
    </tr>
    <tr>
    <td>Nombre integrante 2</td>
