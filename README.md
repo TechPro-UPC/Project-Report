@@ -264,6 +264,20 @@ Esta sección permite identificar las tareas clave que realizan los usuarios de 
 | Confirmar asistencia de pacientes     | –                              | –                              | Alta                           | Alta                           |
 | Reducir inasistencias                 | –                              | –                              | Alta                           | Alta                           |
 
+### 2.3.3 Empathy Maps
+
+El Empathy Map ayuda a comprender en profundidad qué ven, piensan, sienten, dicen y hacen los usuarios, además de sus frustraciones (pains) y aspiraciones (gains) de los segmentos objetivo.
+
+**Segmento #1: Personas con problemas de salud mental**
+<div align="center">
+<img src="img/Empathy_Map_1.png" alt="Empathy_Map_1" />
+</div>
+
+**Segmento #2: Psicólogos:**
+<div align="center">
+<img src="img/User_Persona_2.png" alt="Empathy_Map_2" />
+</div>
+
 ### 2.3.4 As-is Scenario Mapping
 
 La sección muestra cómo los usuarios experimentan actualmente la gestión de citas psicológicas, describiendo sus fases, acciones, pensamientos y emociones. Su construcción incluyó preparación, lluvia de ideas, revisión e identificación de fases, además de señalar áreas positivas, negativas y en blanco. Este análisis permite detectar fricciones y oportunidades de mejora que guiarán el diseño de la solución.
