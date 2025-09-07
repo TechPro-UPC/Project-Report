@@ -310,6 +310,21 @@ La sección muestra cómo los usuarios experimentan actualmente la gestión de c
 <img src="img/As_Is_Scenario_Mapping_2.jpg" alt="As_Is_Scenario_Mapping_2" />
 </div>
 
+### 3.1 To-Be Scenario Mapping
+
+La sección proyecta cómo los usuarios experimentarán en el futuro la gestión de citas psicológicas con la solución propuesta, describiendo pasos optimizados, acciones simplificadas, pensamientos más positivos y emociones asociadas a una experiencia fluida y confiable. Su construcción incluyó la definición de mejoras clave, la alineación de impactos con entregables, la integración de herramientas digitales y la eliminación de fricciones detectadas en el As-is. Este análisis permite visualizar el escenario deseado, orientando el diseño hacia una experiencia más eficiente, motivadora y centrada en las necesidades tanto de pacientes como de especialistas.
+
+**Segmento #1: Personas con problemas de salud mental**
+<div align="center">
+<img src="img/To_Be_Scenario_Mapping_1.jpg" alt="To_Be_Scenario_Mapping_1" />
+</div>
+
+**Segmento #2: Psicólogos:**
+<div align="center">
+<img src="img/To_Be_Scenario_Mapping_2.jpg" alt="To_Be_Scenario_Mapping_2" />
+</div>
+
+
 # Bibliografía
 
 <div style="text-indent: 30px;">
