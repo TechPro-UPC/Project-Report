@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1081" height="243" alt="image" src="https://github.com/user-attachments/assets/071f3b57-5a6e-41da-919a-1a46f4cabceb" /><div align="center">
    <div>
 
    <br>
@@ -69,8 +69,8 @@
    <td>U202319668</td>
    </tr>
    <tr>
-   <td>Nombre integrante 4</td>
-   <td>U</td>
+   <td>Nicolich Alvis, Fabio Maurizio</td>
+   <td>U202218791</td>
    </tr>
    <tr>
    <td>Nombre integrante 5</td>
@@ -164,7 +164,7 @@ Consolidarnos como la startup tecnológica de referencia en Latinoamérica en el
 | **Nombre del integrante 1**<br>Tu informacion...                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | <img src="" alt="" width="200">              |
 | **Nombre del integrante 2**<br>Tu informacion...                                                                                                                                                                                                                                                                                  | <img src="" alt="" width="200">              |
 | **Nombre del integrante 3**<br>Tu informacion...                                                                              | <img src="" alt="" width="200">              |
-| **Nombre del integrante 4**<br>Tu informacion...                                                                                                                                                                                   | <img src="" alt="" width="200">              
+| **Fabio Nicolich**<br>Soy estudiante de Ingeniería de Software, cursando actualmente el séptimo ciclo de la carrera. Me destaco por ser responsable, proactivo y poseer sólidas habilidades de liderazgo. Estoy comprometido con el trabajo en equipo, fomentando una comunicación efectiva y colaborativa para alcanzar resultados sobresalientes. Mi enfoque está en garantizar la calidad y el éxito de los proyectos, aportando creatividad, esfuerzo y dedicación en cada etapa del desarrollo. Cuento con conocimientos en lenguajes como C++, HTML, CSS, JavaScript y Python, y estoy enfocado en aprender a crear proyectos utilizando frameworks de calidad| <img src="img/Foto_Fabio_Perfil.jpg" alt="fabio image" width="200">              
 | **Marcelo Varela**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 20 años y actualmente me encuentro cursando el quinto ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="img/Foto_Marcelo_Perfil.jpeg" alt="marcelo image" width="200"> |
 
 ## 1.2. Solution Profile
@@ -246,6 +246,24 @@ Nuestra aplicación, MindBridge, está diseñada para optimizar la gestión de c
 Hemos detectado que los profesionales de la psicología enfrentan dificultades para organizar sus citas de manera eficiente, ya que dependen de llamadas, mensajes de WhatsApp y agendas manuales, lo que genera desorden, pérdida de tiempo y altas tasas de inasistencia. Además, la falta de una herramienta centralizada limita su capacidad de crecimiento y dificulta el seguimiento de sus pacientes.
 Por otro lado, los pacientes que buscan atención psicológica suelen experimentar frustración al intentar coordinar sus citas manualmente, ya que muchas veces no encuentran disponibilidad inmediata, enfrentan confusión sobre horarios y olvidan sus sesiones, lo que incrementa el abandono de las terapias.
 ¿Cómo podemos ofrecer una solución digital integral que permita a los psicólogos gestionar su agenda de forma eficiente, reducir las inasistencias y ofrecer a los pacientes una experiencia más accesible, confiable y personalizada en sus procesos terapéuticos?
+
+## 2.3 Needfindings
+
+El proceso de needfinding nos permitió comprender a fondo las necesidades, frustraciones y expectativas de nuestros segmentos clave. A partir de la investigación, entrevistas exploratorias y observación de comportamientos, identificamos patrones que se plasman en los siguientes artefactos: User Personas, User Task Matrix, Empathy Mapping y As-Is Scenario Mapping.
+
+### 2.3.1 User Personas
+
+A través de un perfil detallado, esta sección explora las características demográficas, necesidades, deseos, comportamientos y problemas específicos de los usuarios de los segmentos objetivos predefinidos, facilitando el diseño de soluciones que se alineen mejor con sus expectativas y desafíos.
+
+**Segmento #1: Personas con problemas de salud mental**
+<div align="center">
+<img src="img/User_Persona_1.png" alt="User_Persona_1" />
+</div>
+
+**Segmento #2: Psicólogos:**
+<div align="center">
+<img src="img/User_Persona_2.png" alt="User_Persona_2" />
+</div>
 
 ### 2.3.2 User Task Matrix
 
